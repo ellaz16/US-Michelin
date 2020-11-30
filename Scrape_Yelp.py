@@ -1,9 +1,12 @@
+# Data processing
 import pandas as pd
+import country_converter as coco
+
+# Scraping web content
 import requests # For downloading the website
 from bs4 import BeautifulSoup # For parsing the website
 import time # To put the system to sleep
 import random # For random numbers
-import country_converter as coco # To standardize country names
 
 # Ignore warnings
 import warnings
@@ -23,13 +26,13 @@ DC_soup = BeautifulSoup(DC_page.content,'html.parser')
 
 
 # Extract page urls
-urls = set()
-page_no = 24
+DC_urls = set([DC_url])
+DC_page_no = 24
 
-for i in range(10, page_no*10, 10):
-    urls.update([DC_url+'&start='+str(i)])
+for i in range(10, DC_page_no*10, 10):
+    DC_urls.update([DC_url+'&start='+str(i)])
 
-urls
+DC_urls
 
 
 # Extract relevant links for one page
@@ -45,32 +48,18 @@ for tag in DC_soup.select('span > a'):
 links
 
 
-# Build a scraper to extract links for all pages
-def page_scraper(url=None,page_no=None,sleep=3):
+# Build a scraper to extract relevant links
+def page_scraper(urls=None,sleep=3):
     """
     Scrape a Yelp url.
 
     Args:
-        url (str): string of Yelp url.
+        urls (list): list of Yelp urls.
+        sleep (int): integer value specifying how long the machine should be put to sleep (random uniform); defaults to 3.
 
     Returns:
-        set: containing all relevant restaurant links.
+        set: set containing all relevant restaurant links.
     """
-    # Download the webpage
-    page = requests.get(url)
-
-    # If a connection was reached
-    if page.status_code == 200:
-
-        # Parse
-        soup = BeautifulSoup(page.content,'html.parser')
-
-        # Extract page urls
-        urls = set([url])
-        for i in range(10, page_no*10, 10):
-            urls.update([url+'&start='+str(i)])
-
-    # Extract all relevant links
     links = set()
 
     for url in urls:
@@ -98,20 +87,76 @@ def page_scraper(url=None,page_no=None,sleep=3):
     # Return data
     return links
 
+
 # Scrape Yelp DC page
-DC_links = page_scraper(url=DC_url,page_no=24)
+DC_links = page_scraper(urls=DC_urls)
+
 
 # View DC_links
 DC_links
+
 
 # Check number of DC_links
 len(DC_links)
 
 
+# Create an empty DataFrame
+Yelp_DC = pd.DataFrame(columns=['business_name','rating','review_count','price_category'])
+
+for tag in DC_soup.select('[class*=container]'):
+    if tag.find('h4'):
+        Yelp_DC = Yelp_DC.append({'business_name':tag.select('h4')[0].get_text(),
+                                  'rating':tag.select('[aria-label*=rating]')[0]['aria-label'],
+                                  'review_count':tag.select('[class*=reviewCount]')[0].get_text(),
+                                  'price_category':tag.select('[class*=priceCategory]')[0].get_text()},
+                                 ignore_index=True)
+
+Yelp_DC
+
+
+# for tag in DC_soup.select('[class*=container]'):
+#     if tag.find('h4'):
+#         print(tag.select('h4')[0].get_text())
+#         print(tag.select('[aria-label*=rating]')[0]['aria-label'])
+#         print(tag.select('[class*=reviewCount]')[0].get_text())
+#         print(tag.select('[class*=priceCategory]')[0].get_text())
 
 
 
 
+
+
+
+
+
+# import json
+# import ssl
+# from urllib.request import Request, urlopen
+#
+# # For ignoring SSL certificate errors
+# ctx = ssl.create_default_context()
+# ctx.check_hostname = False
+# ctx.verify_mode = ssl.CERT_NONE
+#
+# # Yelp Ambar Arlington url
+# Ambar_url = 'https://www.yelp.com/biz/ambar-arlington-4?osq=Restaurants'
+#
+# # Marking the website believe that you are accessing it using a mozilla browser
+# req = Request(Ambar_url,headers={'User-Agent':'Mozilla/5.0'})
+# webpage = urlopen(req).read()
+#
+# # Creating a BeautifulSoup obeject of the html page for easy extraction of data
+# soup = BeautifulSoup(webpage,'html.parser')
+# html_obj = soup.prettify('utf-8')
+# business_details = {}
+#
+# for script in Ambar_soup.findAll('script', attrs={'type':'application/ld+json'}):
+#     json_data = json.loads(script.text)
+#     business_details["phone_number"] = json_data["telephone"]
+#     business_details["address"] = json_data["address"]
+#     business_details["rating"] = json_data["aggregateRating"]["ratingValue"]
+#     business_details["reviewCount"] = json_data["aggregateRating"]["reviewCount"]
+#     business_details["cuisine"] = json_data["servesCuisine"]
 
 
 
