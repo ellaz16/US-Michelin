@@ -48,10 +48,10 @@ for tag in DC_soup.select('span > a'):
 links
 
 
-# Build a scraper to extract relevant links
+# Build a scraper to extract relevant links for multiple pages
 def page_scraper(urls=None,sleep=3):
     """
-    Scrape a Yelp url.
+    Scrape Yelp urls to extract relevant links.
 
     Args:
         urls (list): list of Yelp urls.
@@ -120,6 +120,87 @@ Yelp_DC
 #         print(tag.select('[aria-label*=rating]')[0]['aria-label'])
 #         print(tag.select('[class*=reviewCount]')[0].get_text())
 #         print(tag.select('[class*=priceCategory]')[0].get_text())
+
+
+# Build a scraper for Yelp links
+def Yelp_scraper(url=None):
+    """
+    Scrape a Yelp url to extract business information.
+
+    Args:
+        url (str): string of a Yelp url.
+
+    Returns:
+        DataFrame: frame containing business information of the url.
+    """
+    # Download the webpage
+    page = requests.get(url)
+
+    # If a connection was reached
+    if page.status_code == 200:
+
+        # Parse
+        soup = BeautifulSoup(page.content,'html.parser')
+
+        # Create an empty DataFrame
+        info = pd.DataFrame(columns=['business_name','rating','review_count','price_category'])
+
+        for tag in soup.select('[class*=container]'):
+            if tag.find('h4'):
+                info = info.append({'business_name':tag.select('h4')[0].get_text(),
+                                    'rating':tag.select('[aria-label*=rating]')[0]['aria-label'],
+                                    'review_count':tag.select('[class*=reviewCount]')[0].get_text(),
+                                    'price_category':tag.select('[class*=priceCategory]')[0].get_text()},
+                                   ignore_index=True)
+
+    # Return data
+    return info
+
+Yelp_scraper(url=DC_url)
+
+
+# Build a function to scrape multiple Yelp links
+def link_scrape(urls=None,sleep=3):
+    """
+    Scrape multiple Yelp links.
+
+    Args:
+        urls (list): list of Yelp urls.
+        sleep (int): integer value specifying how long the machine should be put to sleep (random uniform); defaults to 3.
+
+    Returns:
+        DataFrame: frame containing business information of all urls.
+    """
+    dat = pd.DataFrame([])
+
+    for url in urls:
+
+        print(url) # Keep track of where we are at
+
+        try:
+
+            # Scrape the content
+            dat = dat.append(Yelp_scraper(url))
+
+            # Put the system to sleep for a random draw of time
+            time.sleep(random.uniform(0,sleep))
+
+        except ImportError:
+            pass
+
+    dat = dat.reset_index(drop=True)
+    return dat
+
+
+# Scrape DC_urls
+DC_yelp = link_scrape(urls=DC_urls)
+
+
+# View a random sample of DC_yelp
+DC_yelp.sample(10)
+
+
+
 
 
 
