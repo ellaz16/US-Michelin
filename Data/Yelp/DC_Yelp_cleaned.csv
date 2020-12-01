@@ -1,0 +1,241 @@
+business_name,rating,review_count,price_range,category
+Le Diplomate,4.5,3596,$$$,"['Brasseries', 'French', 'Breakfast & Brunch']"
+Gypsy Kitchen,4.5,70,,"['Tapas/Small Plates', 'Mediterranean']"
+Butter Me Up,4.5,103,,['Breakfast & Brunch']
+The Block,5.0,12,,"['Food Court', 'Bars', 'Asian Fusion']"
+The Alibi,4.5,441,$$,"['Pubs', 'Sandwiches', 'Barbeque']"
+Old Ebbitt Grill,4.0,8511,$$,"['Bars', 'American (Traditional)', 'Breakfast & Brunch']"
+il Canale,4.5,3239,$$,"['Italian', 'Pizza']"
+Mr Braxton Bar & Kitchen,4.5,198,$$,"['American (New)', 'Cocktail Bars']"
+Cane,4.5,278,$$,['Caribbean']
+Reren,4.0,1899,$$,"['Ramen', 'Asian Fusion']"
+Ambar,4.5,1588,$$,['Modern European']
+Farmbird,5.0,603,$$,"['Chicken Shop', 'American (New)', 'American (Traditional)']"
+Hot N Juicy Crawfish,4.0,1843,$$,"['Seafood', 'Cajun/Creole']"
+Call Your Mother,4.5,416,$$,"['Bagels', 'Delis']"
+Founding Farmers - Washington,4.0,13820,$$,"['American (Traditional)', 'Coffee & Tea', 'Breakfast & Brunch']"
+Makan,4.5,40,,['Malaysian']
+The Pig,4.0,1862,$$,"['Barbeque', 'American (New)', 'Whiskey Bars']"
+Maydan,4.5,826,$$,"['Moroccan', 'Lebanese']"
+Duke’s Counter,4.5,442,$$,"['Burgers', 'Pubs', 'Sandwiches']"
+Republic Cantina,4.5,127,,['Tex-Mex']
+Mecho’s Dominican Kitchen,4.5,89,$$,['Dominican']
+Bombay Street Food,4.0,364,$$,['Indian']
+Boqueria Penn Quarter,4.5,238,,"['Spanish', 'Tapas Bars', 'Tapas/Small Plates']"
+1914 By Kolben,5.0,36,,['Vietnamese']
+Supreme Hot Pot,5.0,15,,"['Hot Pot', 'Seafood', 'Kebab']"
+Roaming Rooster,4.5,419,,"['Chicken Shop', 'American (Traditional)']"
+Moon Rabbit,5.0,17,,"['Vietnamese', 'Seafood', 'Cocktail Bars']"
+Bammy’s,4.5,55,,['Caribbean']
+The Grill,4.0,111,,"['American (Traditional)', 'Steakhouses']"
+Copacabana,5.0,5,,['Brazilian']
+Prost,5.0,14,,"['German', 'Breakfast & Brunch', 'Sandwiches']"
+Rooster & Owl,4.5,128,,"['American (New)', 'Tapas/Small Plates']"
+Thip Khao,4.5,1138,$$,['Laotian']
+The Hamilton,4.0,2534,$$,"['Seafood', 'American (New)', 'Music Venues']"
+Zaytinya,4.0,4683,$$$,"['Greek', 'Turkish', 'Lebanese']"
+Rose’s Luxury,4.5,1969,$$$,"['American (New)', 'Italian', 'Tapas/Small Plates']"
+Bonchon Navy Yard,4.0,483,$$,"['Chicken Wings', 'Korean', 'Asian Fusion']"
+Taqueria Habanero,4.5,847,$$,"['Mexican', 'Cocktail Bars']"
+Proper 21,4.0,527,$$,"['Bars', 'American (New)']"
+Chicken + Whiskey,4.0,441,$$,"['Venezuelan', 'Peruvian', 'Sandwiches']"
+Unconventional Diner,4.5,1156,$$,"['American (New)', 'Breakfast & Brunch']"
+Nina May,4.5,123,$$$,['American (New)']
+Luke’s Lobster Penn Quarter,4.0,1382,$$,['Seafood']
+Mi Cuba Cafe,4.5,629,$$,"['Cuban', 'Latin American', 'Sandwiches']"
+Taqueria Xochi,4.0,22,,['Mexican']
+Dumplings & Beyond,4.0,434,$$,['Chinese']
+Pisco Y Nazca,4.5,829,$$,"['Peruvian', 'Cocktail Bars']"
+Bad Saint,4.0,605,$$$,['Filipino']
+Busboys and Poets - 450K,4.0,2353,$$,"['American (Traditional)', 'Breakfast & Brunch', 'Mediterranean']"
+Maketto,4.0,972,$$,"['Cafes', 'Cambodian', 'Taiwanese']"
+Donburi,4.5,816,$$,['Japanese']
+Da Hong Pao,4.0,702,$$,"['Cantonese', 'Dim Sum', 'Szechuan']"
+La Betty,4.5,55,,['American (New)']
+Ottoman Taverna,4.5,449,$$,"['Mediterranean', 'Turkish', 'Halal']"
+Chiko,4.5,167,$$,"['Chinese', 'Korean']"
+Farmers Fishers Bakers,4.0,3747,$$,"['American (New)', 'Breakfast & Brunch', 'Seafood']"
+DCity Smokehouse,4.0,402,$$,"['Barbeque', 'Smokehouse', 'Chicken Wings']"
+Estadio,4.0,1161,$$,"['Spanish', 'Tapas/Small Plates']"
+District Taco,4.0,1598,$,['Mexican']
+Los Hermanos,4.5,553,$,['Dominican']
+Baan Siam,5.0,72,,['Thai']
+Chloe,4.5,374,$$,"['American (New)', 'Modern European']"
+Slate Wine Bar,3.5,200,$$,"['Wine Bars', 'American (New)']"
+SeoulSpice,4.0,329,$$,"['Korean', 'Gluten-Free', 'Comfort Food']"
+Sospeso,4.5,205,$$,"['Mediterranean', 'Bars']"
+Federalist Pig,4.5,602,$$,"['Barbeque', 'Sandwiches', 'Chicken Wings']"
+The Fainting Goat,4.0,696,$$,"['American (New)', 'Cocktail Bars']"
+Mi Vida Restaurante,4.0,807,$$,['Mexican']
+Albi,4.5,61,,['Lebanese']
+Lutèce,4.5,9,,"['French', 'Bars']"
+S&G Seafood House,4.5,31,$,['Seafood']
+Roaming Rooster,4.5,24,,"['Chicken Shop', 'American (Traditional)']"
+ANKARA,4.0,653,$$,"['Mediterranean', 'Turkish']"
+Bun DC,4.5,76,,['Vietnamese']
+Huacatay Peruvian Chicken,4.5,160,$,"['Peruvian', 'Chicken Shop']"
+Indigo,4.5,861,$$,['Indian']
+Dolan Uyghur Restaurant,4.0,260,$$,"['Asian Fusion', 'Halal', 'Kebab']"
+Mazi,4.5,161,,['American (New)']
+A Baked Joint,4.5,1912,$,"['Coffee & Tea', 'Breakfast & Brunch', 'Sandwiches']"
+Shouk,4.5,667,$$,"['Middle Eastern', 'Vegan', 'Kosher']"
+Del Mar,4.0,583,$$$,"['Spanish', 'Seafood', 'Cocktail Bars']"
+The Capital Burger,4.0,567,$$,"['Burgers', 'American (New)', 'Cocktail Bars']"
+Sababa,4.0,188,$$$,['Middle Eastern']
+Right Proper Brewing Company,4.0,694,$$,"['Gastropubs', 'Breweries']"
+Yafa Grille,4.0,162,$,"['Middle Eastern', 'Mediterranean', 'Halal']"
+Pho 54 Noodle Bar,4.5,99,$$,"['Vietnamese', 'Soup']"
+Luke’s Lobster Farragut,4.5,197,$$,['Seafood']
+Barcelona Wine Bar,4.0,1695,$$,"['Tapas/Small Plates', 'Wine Bars', 'Spanish']"
+St. Anselm,4.5,458,$$,"['Steakhouses', 'American (New)', 'Breakfast & Brunch']"
+DCG - District Chicken & Gyro,5.0,392,$$,"['Halal', 'Middle Eastern', 'Mediterranean']"
+Rumi’s Kitchen,4.5,70,,['Persian/Iranian']
+Byblos Deli,4.5,302,$,['Middle Eastern']
+Bandit Taco,4.0,186,$,['Mexican']
+Sweetpea’s Classic Soul Food,4.5,99,$$,['Southern']
+KitchenCray - H Street,4.5,23,,"['Southern', 'Breakfast & Brunch']"
+ANJU,4.0,161,$$,['Korean']
+Falafel Inc,5.0,564,$,"['Falafel', 'Vegetarian']"
+Mandu,4.0,789,$$,"['Korean', 'Bars']"
+Toro Toro,4.0,833,$$,['Latin American']
+The Smith,4.0,932,$$,"['American (New)', 'Breakfast & Brunch', 'Cocktail Bars']"
+O-Ku Sushi DC,4.5,281,$$$,"['Sushi Bars', 'Japanese']"
+Manna Dosirak,5.0,56,,['Korean']
+CIRCA at Navy Yard,4.5,210,$$,"['American (Traditional)', 'American (New)']"
+Bistrot Du Coin,4.0,1683,$$,"['French', 'Breakfast & Brunch', 'Desserts']"
+Ivy City SmokeHouse,3.5,529,$$,"['Seafood', 'Smokehouse', 'Bars']"
+Pow Pow,4.0,327,$$,"['Asian Fusion', 'Kosher']"
+Menya Hosaki,4.5,58,,"['Ramen', 'Noodles']"
+Bistro Aracosia,4.5,204,$$$,"['Afghan', 'Wine Bars']"
+Fuku,2.0,18,,['Chicken Shop']
+CIRCA at Chinatown,4.5,279,$$,['American (New)']
+Mercy Me,4.5,69,,"['American (New)', 'Cafes', 'Bars']"
+Purple Patch,4.5,835,$$,"['Filipino', 'American (Traditional)', 'Cocktail Bars']"
+Brookland’s Finest,4.0,561,$$,"['American (New)', 'Bars']"
+Agora,4.0,1208,$$,"['Mediterranean', 'Greek', 'Turkish']"
+Bandoola Bowl,5.0,275,$$,"['Salad', 'Burmese']"
+RASA,4.5,403,$$,['Indian']
+Ted’s Bulletin,4.0,1703,$$,"['Breakfast & Brunch', 'American (New)', 'Comfort Food']"
+Ted’s Bulletin,4.0,2094,$$,"['American (New)', 'Breakfast & Brunch', 'Comfort Food']"
+Lei Musubi,5.0,4,,"['Hawaiian', 'Pop-Up Restaurants']"
+Backyard Smokespot BBQ,4.5,82,,"['Smokehouse', 'Barbeque']"
+Medium Rare,4.0,945,$$,"['Steakhouses', 'American (New)', 'Desserts']"
+Ambar,4.5,1283,$$,['Modern European']
+King Street Oyster Bar,4.5,130,$$,"['Seafood', 'Breakfast & Brunch', 'American (Traditional)']"
+Emilie’s,4.0,122,,['American (New)']
+Library Tavern,4.5,74,$$,"['Persian/Iranian', 'Middle Eastern', 'Hookah Bars']"
+Surfside Taco Stand,4.0,505,$$,"['Tex-Mex', 'Caribbean']"
+Cafe Fili,5.0,43,,"['Mediterranean', 'Tapas/Small Plates']"
+Mama Ayesha’s,4.0,524,$$,"['Middle Eastern', 'Mediterranean']"
+Queen’s English,4.0,106,,"['Hong Kong Style Cafe', 'Cocktail Bars']"
+Rasika,4.5,3111,$$$,['Indian']
+Copycat Co,4.5,619,$$,"['Cocktail Bars', 'Chinese']"
+Boqueria Dupont,4.0,1239,$$$,"['Tapas Bars', 'Spanish']"
+DC Noodles,4.0,640,$$,['Noodles']
+Arepa Zone,4.0,197,$$,['Venezuelan']
+Cafe U,5.0,2,,['Cafes']
+China Boy,4.0,419,$,['Chinese']
+Vintage78,4.0,55,,"['Persian/Iranian', 'American (New)']"
+Taco City DC,4.5,174,$$,['Mexican']
+Lapis,4.5,536,$$,"['Afghan', 'Cocktail Bars', 'Halal']"
+HipCityVeg,4.5,941,$$,"['Vegetarian', 'Vegan']"
+Ircia’s Kitchen Restaurant,4.5,6,,['Salvadoran']
+Lucky Buns,4.0,379,$$,"['American (New)', 'Bars', 'Burgers']"
+Jackie - American Bistro,4.0,26,,['American (New)']
+Shaw’s Tavern,3.5,667,$$,['Gastropubs']
+Filomena Ristorante,4.0,2630,$$$,"['Italian', 'Wine Bars']"
+Charcoal Town Shawarma,4.0,230,$,"['Mediterranean', 'Middle Eastern', 'Kebab']"
+Bub and Pop’s,4.5,875,$$,"['Sandwiches', 'American (Traditional)', 'Delis']"
+"Joe’s Seafood, Prime Steak & Stone Crab",4.5,1456,$$$,"['Seafood', 'Steakhouses', 'Breakfast & Brunch']"
+14th St Cafe Asian Bistro,4.0,211,$$,['Chinese']
+GCDC Grilled Cheese Bar,3.5,556,$$,"['American (Traditional)', 'Comfort Food']"
+Karibbean Kitchen,4.0,131,$$,['Caribbean']
+Supra,4.0,450,$$,"['Bars', 'Georgian']"
+Call Your Mother,4.0,32,,"['Delis', 'Bagels']"
+Captain White’s Seafood,3.5,823,$$,"['Seafood Markets', 'Seafood']"
+Little Sesame,4.5,222,$$,"['Middle Eastern', 'Mediterranean']"
+Retrobottega,4.5,98,$$,"['Tapas/Small Plates', 'Italian']"
+Kura Revolving Sushi Bar,5.0,18,,"['Sushi Bars', 'Conveyor Belt Sushi']"
+Estuary,4.0,111,,['Seafood']
+Glassey,4.5,32,,['Indian']
+Grillfish DC,4.0,804,$$,['Seafood']
+MANA,4.5,28,,"['Food Trucks', 'Hawaiian', 'Pop-Up Restaurants']"
+Hazel,4.0,352,$$$,"['American (New)', 'Mediterranean', 'Turkish']"
+BlackSalt,4.0,933,$$$,"['Seafood', 'American (New)']"
+Milk & Honey,3.5,104,$$,"['American (New)', 'Bars']"
+Shawarma Hut,4.0,31,,"['Mediterranean', 'Halal', 'Pakistani']"
+JINYA Ramen Bar,4.0,815,$$,"['Ramen', 'Izakaya']"
+District Rico,4.0,267,$$,['Peruvian']
+Iron Gate,4.0,621,$$$,"['American (New)', 'Greek']"
+Butter Chicken Company 2,4.5,49,,['Indian']
+Grazie Grazie,4.5,166,$$,"['Salad', 'Sandwiches']"
+Seven Reasons,4.5,217,$$$,"['Latin American', 'Cocktail Bars']"
+Timber Pizza Company,4.5,459,$$,['Pizza']
+Creole on 14th,3.5,59,,['Cajun/Creole']
+Good Stuff Eatery,3.5,1899,$$,['Burgers']
+Nando’s PERi-PERi,4.0,168,$$,"['Chicken Shop', 'Portuguese', 'South African']"
+Tail Up Goat,4.5,677,$$$,"['Cocktail Bars', 'American (New)', 'Italian']"
+FishScale,4.5,114,$$,"['Burgers', 'Seafood', 'Fish & Chips']"
+Crab Boss,4.0,45,,"['Seafood', 'Cajun/Creole']"
+Primrose,4.0,142,$$,"['French', 'Bars', 'Comfort Food']"
+Fogo de Chão Brazilian Steakhouse,4.0,1857,$$$,"['Brazilian', 'Steakhouses']"
+Lasing Na Baboy,4.5,4,,['Filipino']
+Roaming Rooster,4.5,168,$$,"['Food Trucks', 'Chicken Shop', 'Sandwiches']"
+Mari Vanna,4.0,536,$$$,"['Russian', 'Modern European', 'Venues & Event Spaces']"
+Ghostburger,4.0,27,,"['Burgers', 'Sandwiches', 'American (Traditional)']"
+Gogi Yogi,3.5,156,$$,"['Korean', 'Barbeque']"
+Toki Underground,4.0,2250,$$,['Ramen']
+Old Europe,4.5,298,$$,"['German', 'Diners', 'Salad']"
+Espita,4.0,561,$$,"['Mexican', 'Latin American']"
+Dubliner Restaurant & Pub,3.5,628,$$,"['Irish', 'Irish Pub', 'Venues & Event Spaces']"
+Pho 12,4.0,117,$$,['Vietnamese']
+Bun’d Up,4.5,65,$$,['Asian Fusion']
+RPM Italian,4.0,1229,$$$,['Italian']
+Rice Bar,4.0,143,$$,"['Korean', 'Delis', 'Noodles']"
+Raku,4.0,242,$$,"['Sushi Bars', 'Asian Fusion']"
+Hi/Fi Taco,4.0,3,,['Mexican']
+Lavagna,4.0,691,$$,['Italian']
+Tiger Fork,4.0,595,$$,"['Chinese', 'Hong Kong Style Cafe', 'Cocktail Bars']"
+Jam Doung Style Cuisine,4.0,183,$,['Caribbean']
+La Vie,4.0,487,$$$,"['Seafood', 'Cocktail Bars']"
+Cava Mezze - DC,4.0,1400,$$$,"['Greek', 'Mediterranean']"
+Due South,3.5,548,$$,"['Southern', 'Barbeque']"
+Shawarma District,4.5,43,$,"['Mediterranean', 'Salad', 'Wraps']"
+Moh Moh Licious,4.5,78,$,"['Himalayan/Nepalese', 'Asian Fusion']"
+The Best Sandwich Place,4.5,56,$,"['Breakfast & Brunch', 'Sandwiches', 'Wraps']"
+Pho Viet,4.0,710,$$,['Vietnamese']
+The Capital Grille,4.5,883,$$$,"['Steakhouses', 'Seafood', 'Wine Bars']"
+Hitching Post,4.0,269,$$,"['Southern', 'Soul Food', 'Tapas/Small Plates']"
+Poke Papa,4.5,749,$$,"['Poke', 'Hawaiian']"
+Little Miner Taco,4.0,323,$$,"['Tacos', 'Latin American']"
+Haikan,4.0,462,$$,['Ramen']
+Benitos Place,5.0,74,$$,"['Latin American', 'Honduran']"
+Melange Burger,4.5,15,,['Burgers']
+Pappe,4.0,300,$$,['Indian']
+El Sol Restaurant & Tequileria,4.0,529,$$,"['Mexican', 'Breakfast & Brunch', 'Beer Bar']"
+CHIKO,4.5,312,$$,"['Chinese', 'Korean']"
+Bistro Cacao,4.0,663,$$$,"['French', 'Brasseries']"
+Duke’s Grocery,4.0,1136,$$,"['Pubs', 'Breakfast & Brunch', 'Beer Bar']"
+Anafre,4.5,48,,['Mexican']
+Emmy Squared - Shaw,4.5,109,$$,"['Pizza', 'American (Traditional)']"
+Brick Lane,4.0,519,$$,"['Breakfast & Brunch', 'American (New)']"
+Henry’s Soul Cafe,4.0,181,$,"['Southern', 'Soul Food']"
+Maizal South American Street Food,4.5,39,$,['Latin American']
+Astoria DC,4.5,112,$$,"['Szechuan', 'Cocktail Bars']"
+BKK Cookshop,4.0,219,$$,['Thai']
+Hando Medo,4.0,312,$$,"['Sushi Bars', 'Japanese']"
+Mikko,4.5,96,$$,"['Scandinavian', 'Cafes']"
+Cafe Berlin,4.0,418,$$,['German']
+Café Divan,3.5,349,$$,"['Turkish', 'Mediterranean', 'Halal']"
+SUNdeVICH,4.0,567,$$,['Sandwiches']
+Busboys and Poets - 14th and V,4.0,2332,$$,"['Sandwiches', 'Salad', 'Burgers']"
+El Chalán,4.0,568,$$,['Peruvian']
+Al Volo Trattoria & Bar,4.5,96,$$,"['Italian', 'Salad', 'Wine Bars']"
+Mezcalero,4.0,284,$$,"['Mexican', 'Cocktail Bars', 'Diners']"
+Masala Story,4.5,207,$$,['Indian']
+Brasserie Beck,4.0,1380,$$$,"['Belgian', 'Modern European']"
+Logan Tavern,4.0,872,$$,"['American (New)', 'Sports Bars', 'American (Traditional)']"
+Uzu,4.5,87,$$,['Ramen']
+Akira Ramen & Izakaya DC,4.5,49,$$,['Ramen']
+City Kabob and Curry House - Washington,4.5,138,$$,"['Pakistani', 'Indian', 'Halal']"
+Barrel,4.5,754,$$,"['American (New)', 'Cocktail Bars', 'Breakfast & Brunch']"
