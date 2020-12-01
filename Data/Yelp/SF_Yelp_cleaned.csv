@@ -1,0 +1,231 @@
+business_name,rating,review_count,price_range,category
+Wawa Thai Food,5.0,16,,['Thai']
+World Famous Hotboys,4.5,689,$$,['Southern']
+Daughter Thai Kitchen,4.0,1143,$$,"['Thai', 'Cocktail Bars']"
+Farmhouse Kitchen Thai Cuisine,4.0,1110,$$,"['Thai', 'Cocktail Bars', 'Desserts']"
+Pomella,4.5,177,,['Middle Eastern']
+Kitchen Story,4.0,253,$$,"['Breakfast & Brunch', 'Asian Fusion', 'American (New)']"
+Homeroom,4.0,5734,$$,"['American (Traditional)', 'Comfort Food']"
+Shawarmaji,4.5,126,$$,"['Mediterranean', 'Sandwiches', 'Arabian']"
+Falafel Boy,4.5,171,$$,"['Falafel', 'Lebanese']"
+Drake’s Dealership,4.0,1892,$$,"['Breweries', 'American (Traditional)', 'Pizza']"
+Nyum Bai,4.0,452,$$,['Cambodian']
+La Perla,4.5,164,$$,['Puerto Rican']
+Phnom Penh House Restaurant,4.5,425,$$,"['Cambodian', 'Asian Fusion']"
+Burma Superstar,4.0,2403,$$,['Burmese']
+T&T Seafood #2,5.0,6,,"['Chicken Wings', 'Seafood', 'Fish & Chips']"
+L’acajou Bakery & Cafe,4.0,164,$$,"['Cafes', 'Bakeries']"
+Cozy Wok,4.5,11,,"['Vegetarian', 'Chinese', 'Vegan']"
+Shakewell,4.0,867,$$,"['Bars', 'Mediterranean', 'Spanish']"
+Perle Wine Bar,4.5,290,$$$,"['Wine Bars', 'French', 'Cocktail Bars']"
+Lucky Three Seven,4.0,478,$$,['Filipino']
+Gus’s World Famous Fried Chicken,4.0,141,,['Chicken Shop']
+Kokolo Donburi & Grill,4.0,111,$$,"['Japanese Curry', 'Tapas/Small Plates']"
+MZ Kettle’s BBQ,4.5,44,$$,"['Southern', 'Barbeque']"
+Hawking Bird,4.0,287,$$,['Asian Fusion']
+Horn Barbecue,4.0,73,,['Barbeque']
+A+ Burger,4.5,479,$$,['Burgers']
+Fusion Kitchen,4.5,145,$$,"['Asian Fusion', 'Noodles', 'Ramen']"
+Vientian Cafe,4.0,991,$,"['Vietnamese', 'Thai', 'Laotian']"
+Marufuku Ramen - Oakland,4.5,1083,$$,['Ramen']
+Ikaros Greek Restaurant,4.0,701,$$,"['Greek', 'Mediterranean', 'Middle Eastern']"
+Marica,4.5,2061,$$,"['Seafood', 'American (New)']"
+Sparky’s Giant Burgers,3.5,701,$$,['Burgers']
+Communitē Table,4.5,205,$$,"['American (New)', 'Sandwiches', 'Salad']"
+Easy Creole,4.5,670,$$,"['Cajun/Creole', 'Southern', 'Comfort Food']"
+Popoca Oakland,4.5,31,,"['Salvadoran', 'Pop-Up Restaurants']"
+Daughter’s Diner,4.5,38,,"['Diners', 'Sandwiches', 'Breakfast & Brunch']"
+Curry Up Now,4.0,305,$$,['Indian']
+Smish Smash,4.5,27,,['Burgers']
+Taps And Takeout,4.5,52,$$,['American (New)']
+Yellow Door,5.0,33,,"['Coffee & Tea', 'Bakeries', 'Breakfast & Brunch']"
+Chuan Yu,4.5,14,,['Szechuan']
+TrueBurger,4.0,1729,$,['Burgers']
+The Lumpia Company,4.0,198,$$,"['Filipino', 'Pop-up Shops']"
+Moo Bong Ri Korean Restaurant,4.5,122,$$,"['Korean', 'Soup']"
+Teni East Kitchen,4.5,362,$$,['Burmese']
+Pho Huong Que,4.5,98,$$,['Vietnamese']
+Pho King,4.0,635,$,['Vietnamese']
+Montclair Egg Shop,4.0,757,$$,['Breakfast & Brunch']
+Seoul Hotdog,4.5,103,$,"['Hot Dogs', 'Korean']"
+Taiwan Bento,4.0,457,$$,"['Taiwanese', 'Comfort Food', 'Noodles']"
+The Hideout Kitchen,4.5,1685,$$,"['American (New)', 'American (Traditional)']"
+Q’s Halal “Mediterranean Comfort”,4.5,710,$$,"['Halal', 'Mediterranean']"
+Vegan Alien,5.0,12,,"['Vegan', 'Pop-up Shops']"
+Alamar Kitchen & Bar,4.0,441,$$,"['Seafood', 'Cocktail Bars']"
+SAGA Kitchen,4.5,7,,['Asian Fusion']
+Wood Tavern,4.5,1965,$$$,['American (New)']
+Brenda’s Oakland,4.0,425,$$,"['Breakfast & Brunch', 'Southern', 'Cajun/Creole']"
+Tian Jin Dumplings,4.0,283,$,['Chinese']
+Banh Mi Ba Le,4.5,1157,$,"['Vietnamese', 'Coffee & Tea', 'Sandwiches']"
+Poke Koma,4.5,411,$$,"['Poke', 'Hawaiian', 'Seafood']"
+Smokin Woods BBQ,4.0,575,$$,"['Barbeque', 'Bars', 'American (Traditional)']"
+Gay 4 U,5.0,31,,['Vegan']
+CHICA Oakland,4.5,229,$$,"['Latin American', 'Mexican']"
+Tasty Bowl,4.0,25,,['Noodles']
+Cousins Maine Lobster - East Bay,4.5,39,,"['Seafood', 'Food Trucks']"
+Koharu Japanese Cafe,4.5,10,,"['Japanese', 'Comfort Food']"
+Lemon Pepper Vietnamese Cuisine,4.5,54,$$,['Vietnamese']
+The Veg Hub,4.5,327,$,"['Vegan', 'Tapas/Small Plates', 'Sandwiches']"
+Belly,4.0,1706,$$,"['Burgers', 'Mexican', 'Asian Fusion']"
+Pyeong Chang Tofu House,4.0,827,$$,"['Korean', 'Soup']"
+Bento & Bowls,5.0,136,$$,"['Korean', 'Soup', 'Barbeque']"
+Reem’s,4.5,507,$$,"['Middle Eastern', 'Arabian', 'Street Vendors']"
+Aburaya Japanese Fried Chicken,4.0,714,$$,['Izakaya']
+Burma Bites,4.5,11,,['Burmese']
+Xochi The Dog Cafe,4.5,8,,['Cafes']
+Sequoia Diner,4.0,551,$$,"['Diners', 'Breakfast & Brunch']"
+Koryo Jajang,4.0,499,$$,['Korean']
+Kamdesh Restaurant,4.0,844,$$,['Afghan']
+Ike’s Love & Sandwiches,4.0,1318,$$,['Sandwiches']
+Cholita Linda,4.5,1695,$$,"['Latin American', 'Sandwiches', 'Tacos']"
+Cambodian Street Food,4.5,138,,['Cambodian']
+Spinning Bones,4.5,111,$$,"['Chicken Shop', 'American (New)']"
+Bakesale Betty,4.0,4271,$$,"['Bakeries', 'Sandwiches', 'American (Traditional)']"
+Cheese Board Pizza,4.5,5331,$,['Pizza']
+Izza,5.0,17,,"['Izakaya', 'Tapas/Small Plates', 'Asian Fusion']"
+Paulista Brazilian Kitchen and Taproom,4.0,246,$$,"['Brazilian', 'Acai Bowls', 'Beer Bar']"
+Portal Oakland,4.0,1310,$$,"['American (New)', 'Breakfast & Brunch', 'Burgers']"
+Coco Breeze,4.5,48,,['Caribbean']
+Wally’s Cafe,4.5,1790,$$,"['Mediterranean', 'Lebanese']"
+Hang Ten Boiler,4.0,1158,$$,"['Cajun/Creole', 'Hawaiian', 'Seafood']"
+Speisekammer,4.0,1383,$$,['German']
+Hancook,4.5,623,$$,"['Korean', 'Barbeque', 'Hot Pot']"
+Telegraph,4.0,394,$$,"['Sandwiches', 'Burgers', 'Beer Gardens']"
+Papaito Rotisserie - San Leandro,4.5,320,$$,['Latin American']
+Oakland Street Food Co,4.5,77,,"['Street Vendors', 'Tacos', 'American (Traditional)']"
+Porque No? Tacos,5.0,152,$$,"['Mexican', 'Breakfast & Brunch']"
+Grandma’s Hands,4.0,6,,['Soul Food']
+Holy Land Restaurant,4.0,502,$$,['Middle Eastern']
+Mistura Rotisserie,4.0,258,$$,['Peruvian']
+The Rockin’ Crawfish,4.0,1318,$$,"['Cajun/Creole', 'Seafood']"
+The Governor,5.0,3,,"['British', 'Comfort Food']"
+Hometown Heroes East Bay,4.5,144,$$,"['American (Traditional)', 'Chicken Wings', 'Sports Bars']"
+Dimond Slice Pizza,4.5,453,$,"['Pizza', 'Vegetarian']"
+Himalayan Curry House,4.0,129,$$,"['Himalayan/Nepalese', 'Indian']"
+Okkon,4.5,18,$$,"['Japanese', 'Pop-Up Restaurants']"
+Almond & Oak,4.0,88,$$$,"['American (New)', 'Cocktail Bars']"
+DeVaughn’s Cajun Kitchen,4.0,94,,"['Southern', 'Cajun/Creole', 'Soul Food']"
+Mujiri,5.0,37,,['Japanese']
+Zachary’s Chicago Pizza,4.5,3644,$$,"['Pizza', 'Comfort Food']"
+Southie,4.5,792,$$,"['Sandwiches', 'American (New)']"
+Mill’s Hoagie & Deli Shop,4.0,306,$,"['Sandwiches', 'Delis', 'Cheesesteaks']"
+Orbit Coffee & Doughnuts,4.5,302,$,"['Coffee & Tea', 'Donuts', 'Sandwiches']"
+Iyasare,4.0,607,$$$,"['Japanese', 'Bars']"
+Vegan Mob,4.0,545,$$,"['Barbeque', 'Soul Food', 'Vegan']"
+Grand Lake Kitchen - Dimond,4.0,141,$$,"['Breakfast & Brunch', 'Cocktail Bars', 'Sandwiches']"
+Monkey King At the Brewery,4.0,407,$$,"['Cajun/Creole', 'Noodles', 'Chicken Wings']"
+The Halal Guys,3.0,202,$$,"['Halal', 'Mediterranean', 'Middle Eastern']"
+Belotti Ristorante E Bottega,4.5,622,$$,"['Italian', 'Cocktail Bars', 'Wine Bars']"
+Camchilao Food Truck,4.5,17,,"['Food Trucks', 'Cambodian', 'Laotian']"
+Xiang Yuen Xiao Long Bao,4.0,399,$$,['Shanghainese']
+Star Meats,4.5,246,$$,"['Meat Shops', 'Sandwiches', 'Butcher']"
+Taqueria Los Comales,4.0,307,$,"['Mexican', 'Breakfast & Brunch']"
+FOB Kitchen,4.0,299,$$,"['Filipino', 'Cocktail Bars']"
+Dan Sung Sa,4.0,810,$$,['Korean']
+Phosho Dough,4.5,61,,['Vietnamese']
+Phnom Penh House,4.5,961,$$,"['Cambodian', 'Seafood']"
+Chicken Meets Oyster,4.5,13,,['Pop-Up Restaurants']
+Thai Taste Kitchen,4.5,133,$$,['Thai']
+Grand Bakery,4.0,15,,"['Bakeries', 'Kosher']"
+Summer Kitchen +bakeshop,4.0,461,$$,"['American (New)', 'Local Flavor', 'Salad']"
+Kendejah Restaurant,4.5,345,$$,['African']
+Cam Huong Cafe,4.0,443,$,"['Vietnamese', 'Delis', 'Sandwiches']"
+La Grana Fish,4.5,86,$,"['Seafood', 'Tacos', 'Food Trucks']"
+Pattys & Buns Burgers,3.5,184,$$,['Burgers']
+Daryoush Persian Cuisine,4.5,132,$$,['Persian/Iranian']
+Oak Knoll Meat & Deli,4.5,56,$,"['Delis', 'Grocery']"
+Home of Chicken and Waffles,3.5,3214,$$,"['Soul Food', 'Waffles', 'Bars']"
+Augie’s Montreal Deli,4.5,474,$$,"['Sandwiches', 'Delis', 'Poutineries']"
+Paradiso Restaurant,4.0,1843,$$,"['Mediterranean', 'Italian', 'Seafood']"
+Clove and Hoof,4.0,756,$$,"['American (Traditional)', 'Butcher', 'Sandwiches']"
+Burma Superstar,4.0,1939,$$,['Burmese']
+Taqueria Sinaloa,4.5,1026,$,"['Food Trucks', 'Tacos']"
+Rio California,4.5,440,$,"['Brazilian', 'American (New)']"
+Boriqua Kitchen,4.5,42,,"['Food Trucks', 'Puerto Rican']"
+The Lunch Box,4.5,462,$,"['Sandwiches', 'American (New)', 'Salad']"
+Miss Ollie’s,4.0,679,$$,['Caribbean']
+Ruby Q Smoke Fusion,4.5,39,,"['Barbeque', 'Smokehouse', 'Sandwiches']"
+Souley Vegan,4.0,2645,$$,"['Vegan', 'Salad', 'Burgers']"
+American Oak,4.0,629,$$,"['American (New)', 'Whiskey Bars', 'Steakhouses']"
+Habibi’s Kitchen,4.5,15,,"['Afghan', 'Halal', 'Mediterranean']"
+The Italian Homemade Company,4.0,390,$$,"['Italian', 'Gelato', 'Delis']"
+Joshua’s Gulfport Seafood,4.5,34,$,"['Seafood', 'Southern', 'Soul Food']"
+MIXT,3.5,138,$$,"['Salad', 'American (New)', 'Vegetarian']"
+Aguachiles El Tamarindo,4.0,205,$$,"['Food Trucks', 'Seafood', 'Mexican']"
+Da Nang Quan,4.0,214,$$,['Vietnamese']
+Dosirak Shop,4.5,109,$$,"['Japanese', 'Korean']"
+The Well Oakland,4.0,225,$$,"['Cafes', 'Breakfast & Brunch', 'Gluten-Free']"
+Southern Cafe,4.0,544,$$,"['Southern', 'Salad', 'Chicken Wings']"
+The Butchers Son,4.5,1326,$$,"['Vegan', 'Sandwiches', 'American (Traditional)']"
+iLava Hawaiian Barbecue,4.0,182,$,"['Barbeque', 'Hawaiian']"
+Pucquio,4.0,265,$$$,['Peruvian']
+Tasty Pot,3.5,559,$$,"['Taiwanese', 'Bubble Tea', 'Hot Pot']"
+Cafe Umami,4.5,202,$$,"['Breakfast & Brunch', 'Asian Fusion', 'Cafes']"
+Masala Cuisine,4.5,441,$,['Indian']
+Degrees Plato,4.0,184,$$,"['Tacos', 'Beer Bar']"
+Xingones,4.5,90,$,"['Tacos', 'Chicken Wings']"
+Two Local Girls,4.5,58,$,"['Breakfast & Brunch', 'Sandwiches', 'American (New)']"
+Doña,3.5,118,$$,['Mexican']
+Lao Taé,4.0,120,$$,"['Laotian', 'Thai', 'Cocktail Bars']"
+Champa Garden,4.0,2022,$$,"['Thai', 'Laotian']"
+Genny’s BBQ,4.0,294,$$,"['Barbeque', 'Seafood']"
+Millennium,4.0,739,$$$,"['Vegan', 'Vegetarian', 'Wine Bars']"
+Commis,4.5,1020,$$$$,['American (New)']
+In The Wood,4.0,145,$$,"['Gastropubs', 'American (New)']"
+Vien Huong Restaurant,4.0,868,$,"['Chinese', 'Vietnamese', 'Noodles']"
+RnR Sushi & Bowls,4.5,425,$$,"['Sushi Bars', 'Japanese', 'Salad']"
+Mien Tay Restaurant,4.0,103,$,['Vietnamese']
+Shinmai,4.0,830,$$,"['Izakaya', 'Cocktail Bars', 'Ramen']"
+Molcajete Cocina Mexicana,4.0,498,$$,['Mexican']
+Seabreeze On The Dock,4.0,70,,"['Seafood', 'Salad', 'Sandwiches']"
+Hashtag Poki,4.5,343,$$,"['Poke', 'Hawaiian', 'Asian Fusion']"
+Maya Halal Taqueria,4.5,236,$$,"['Halal', 'Mexican']"
+Wing Wah Pho Ga,4.0,127,$,"['Vietnamese', 'Noodles']"
+SOCIAL BIRD,4.5,128,$$,"['Gastropubs', 'American (New)', 'Beer', 'Wine & Spirits']"
+Holy Basil Pho,4.0,149,$$,"['Vietnamese', 'Noodles', 'Cocktail Bars']"
+Imperial Soup 皇帝湯,4.5,138,$,"['Chinese', 'Soup']"
+Scolari’s,4.0,1078,$$,"['Burgers', 'Sandwiches', 'Salad']"
+Cafe Romanat,4.5,354,$$,['Ethiopian']
+Blue Nile Ethiopian,4.5,106,$$,"['Ethiopian', 'Vegetarian']"
+The Cook and Her Farmer,4.0,329,$$,"['Seafood', 'Wine Bars']"
+Tin & Pig - Kang Tong Degi,4.0,372,$$,"['Korean', 'Gastropubs', 'Comfort Food']"
+The Fat Lady,4.0,1007,$$,"['American (New)', 'Bars']"
+Ayubowan,4.5,16,,"['Sri Lankan', 'Food Trucks']"
+dosa By DOSA,4.0,403,$$,['Indian']
+Eureka!,4.0,1713,$$,['American (Traditional)']
+Mi Zacatecas,4.5,113,$,['Mexican']
+The Lede,4.0,26,,"['Bars', 'American (Traditional)']"
+El Paisa,4.5,258,$$,['Mexican']
+Canasta Kitchen,4.5,119,,"['Tacos', 'Latin American']"
+The Mana’eesh Lady,5.0,1,,"['Pop-Up Restaurants', 'Middle Eastern']"
+Urban Ka-re House,4.5,72,,"['Japanese Curry', 'Noodles']"
+Tipunan,4.5,24,,['Filipino']
+Organic Greens Salad & more - Elmwood,4.0,61,$$,"['Salad', 'Juice Bars & Smoothies', 'Sandwiches']"
+Moi Eat,5.0,4,,['Vietnamese']
+Joe’s Pho,4.0,735,$$,"['Vietnamese', 'Bubble Tea', 'Sandwiches']"
+The Kon-Tiki,4.0,175,$$,"['Tiki Bars', 'American (Traditional)']"
+Marugame Udon,3.5,435,$$,"['Japanese', 'Noodles']"
+Noodles Pho Me,4.5,798,$$,"['Laotian', 'Noodles', 'Soup']"
+Philly’s Best,4.0,49,,"['Cheesesteaks', 'Sandwiches']"
+Orbit Coffee & Kitchen,4.0,75,,['Cafes']
+East Ocean Seafood Restaurant,4.0,1557,$$,"['Dim Sum', 'Seafood']"
+Tay Ho Oakland Restaurant & Bar,4.0,671,$$,"['Vietnamese', 'Cocktail Bars', 'Noodles']"
+Kitava - at Buck Wild,5.0,2,,"['American (New)', 'Breweries', 'Gluten-Free']"
+Yimm,4.5,155,$$,['Thai']
+Abigail’s Moroccan Cuisine,4.5,384,$$,"['Moroccan', 'Salad', 'Soup']"
+Tacos Oscar,4.5,104,,['Tacos']
+Oasis Kitchen,4.0,288,$$,"['Falafel', 'Middle Eastern']"
+EM Deli & Catering,4.5,100,$,"['Delis', 'Korean']"
+Swan’s Market,4.5,107,$$,"['Grocery', 'Food Court']"
+Pho King,4.5,42,$$,['Vietnamese']
+Fentons Creamery,4.0,4634,$$,"['Ice Cream & Frozen Yogurt', 'American (Traditional)', 'Desserts']"
+Hegenburger,4.5,308,$,"['Burgers', 'Hot Dogs', 'American (Traditional)']"
+Wild Ginger,4.5,352,$$,"['Chinese', 'Noodles', 'Burgers']"
+Townhouse,4.0,1139,$$,"['American (New)', 'Breakfast & Brunch', 'Barbeque']"
+The Park Street Tavern,4.5,170,$$,"['Greek', 'Italian', 'Steakhouses']"
+Bardo Lounge & Supper Club,4.5,122,$$,"['Lounges', 'American (New)', 'Cocktail Bars']"
+Trabocco Kitchen & Cocktails,4.0,1317,$$,"['Italian', 'Cocktail Bars']"
+Sidewalk Street Food,4.0,40,$$,['Vietnamese']
+Roli Roti Gourmet Rotisserie,4.0,89,$$,"['Specialty Food', 'Chicken Shop', 'Food Trucks']"
+Flipnsoul,3.5,196,$$,"['Soul Food', 'Filipino']"

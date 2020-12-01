@@ -82,17 +82,81 @@ DC_Yelp['price_range'] = DC_Yelp['price_range']+'$'
 # Replace missing values with NaN
 DC_Yelp['price_range'].loc[swap] = np.nan
 
+
 DC_Yelp
 
 # Convert category into list of strings
 DC_Yelp['category'] = DC_Yelp.category.str.split(", ",expand=False)
 
-DC_Yelp
 
 
 
+# Build a function to clean Yelp data
+def Yelp_clean(df):
+    """
+    This is a function that takes Yelp data as an input and output a cleaned version.
+
+    Args:
+        df (DataFrame): raw Yelp dataframe.
+
+    Returns:
+        DataFrame: cleaned Yelp dataframe.
+    """
+    # Get the repeated ad business
+    ad = df.business_name[0]
+
+    # Remove the repeated ad business
+    df = df[df.business_name != ad].reset_index(drop=True)
 
 
+    # Split business_name into two columns
+    df[['index','business_name']] = df.business_name.str.split(".\xa0",expand=True)
+
+    # Convert index to int
+    df['index'] = df['index'].astype(int)
+
+    # Sort values along index
+    df = df.sort_values('index').drop('index',axis=1).reset_index(drop=True)
+
+
+    # Remove "star rating" in the rating column
+    df['rating'] = df.rating.str.rstrip(' star rating')
+
+    # Convert rating to float
+    df['rating'] =  df['rating'].astype(float)
+
+
+    # Convert review_count to int
+    df['review_count'] =  df['review_count'].astype(int)
+
+
+    # Split price_category into two columns
+    df[['price_range','category']] = df.price_category.str.rsplit("$",1,expand=True)
+    df = df.drop('price_category',axis=1)
+
+    # Save the indices of NaN in category
+    swap = df.index[df['category'].isna()]
+
+    # Fill NaN in category with price_range
+    df['category'] = df['category'].fillna(df['price_range'])
+
+    # Add back one $ to price_range
+    df['price_range'] = df['price_range']+'$'
+
+    # Replace missing values with NaN
+    df['price_range'].loc[swap] = np.nan
+
+
+    # Convert category into list of strings
+    df['category'] = df.category.str.split(", ",expand=False)
+
+
+    # Return data
+    return df
+
+
+# Clean SF_Yelp and export
+# Yelp_clean(SF_Yelp).to_csv('Data/Yelp/SF_Yelp_cleaned.csv',index=False)
 
 
 

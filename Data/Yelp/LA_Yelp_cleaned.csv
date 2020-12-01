@@ -1,0 +1,241 @@
+business_name,rating,review_count,price_range,category
+FishPop,5.0,36,,"['Fish & Chips', 'Pop-Up Restaurants']"
+Running Goose,4.5,1077,$$,"['Tapas/Small Plates', 'Gastropubs', 'Latin American']"
+Howlin’ Ray’s,4.5,6543,$$,"['Southern', 'Chicken Shop', 'American (Traditional)']"
+Republique,4.0,5607,$$,"['French', 'Breakfast & Brunch', 'Cocktail Bars']"
+The Rooftop at The Wayfarer Downtown LA,4.0,80,$$$,"['American (New)', 'Cocktail Bars', 'Tiki Bars']"
+Dave’s Hot Chicken,4.5,3343,$$,"['Chicken Shop', 'Halal']"
+SUPAMU,4.5,8,,['Japanese']
+Bao Dim Sum House,4.0,3003,$$,"['Dim Sum', 'Bars', 'Tapas/Small Plates']"
+Woo Hyang Woo,5.0,90,,"['Korean', 'Barbeque', 'Bars']"
+The Barish,5.0,4,,"['American (New)', 'Steakhouses', 'Italian']"
+Hangari Kalguksu,4.5,1708,$$,"['Korean', 'Noodles']"
+Wurstküche,4.0,8422,$$,"['Hot Dogs', 'German', 'Gastropubs']"
+Easy Street Burgers,4.5,108,$,['Burgers']
+Langer’s Delicatessen,4.5,3824,$$,"['Delis', 'Sandwiches']"
+Eat This Cafe,4.5,1262,$$,"['Breakfast & Brunch', 'Sandwiches', 'Salad']"
+Strada Eateria & Bar,5.0,352,$$,"['Tapas/Small Plates', 'Bars', 'American (New)']"
+Carousel Restaurant,4.5,748,$$,"['Armenian', 'Lebanese']"
+Perch,4.0,8040,$$$,"['Lounges', 'French', 'Breakfast & Brunch']"
+E Stretto East Hollywood,5.0,5,,['Sandwiches']
+Pine & Crane,4.5,2322,$$,"['Taiwanese', 'Chinese', 'Bubble Tea']"
+Pine & Crane,4.5,2322,$$,"['Taiwanese', 'Chinese', 'Bubble Tea']"
+Cannabis Cafe,3.5,676,,"['Cannabis Dispensaries', 'Cafes']"
+Philippe the Original,4.0,6270,$,"['Sandwiches', 'Breakfast & Brunch', 'American (Traditional)']"
+La Pinata,3.5,11,,"['Mexican', 'Cocktail Bars', 'Breakfast & Brunch']"
+Mizlala,4.5,314,$$,"['Falafel', 'Middle Eastern']"
+JOEY DTLA,4.5,1000,,['American (New)']
+BROKEN MOUTH | Lee’s Homestyle,5.0,892,$$,"['Asian Fusion', 'Hawaiian', 'Korean']"
+Everyday Pocha,5.0,9,,['Korean']
+Angry Egret Dinette,5.0,7,,['Sandwiches']
+Morrison Atwater Village,4.5,4424,$$,"['Burgers', 'Bars']"
+Marugame Monzo,4.5,3766,$$,"['Japanese', 'Noodles', 'Asian Fusion']"
+Osteria Mamma,4.0,1645,$$,"['Italian', 'Wine Bars']"
+Guelaguetza Restaurante,4.0,2317,$$,['Mexican']
+Papi Tacos & Churros,4.0,410,,['Tacos']
+La Pergoletta,4.5,917,$$,['Italian']
+Kang Ho-dong Baekjeong,4.5,4322,$$,"['Barbeque', 'Korean']"
+Yuk Dae Jang,4.5,559,$$,"['Korean', 'Comfort Food', 'Soup']"
+Yup Dduk LA,4.5,2069,$$,['Korean']
+Pink’s Hot Dogs,3.5,7148,$,['Hot Dogs']
+Met Her At A Bar,4.5,1547,$$,"['Cafes', 'Breakfast & Brunch', 'American (New)']"
+My Two Cents,4.5,700,$$,"['Southern', 'Seafood', 'Soul Food']"
+Versailles,4.0,1488,$$,"['Cuban', 'Sandwiches', 'Caribbean']"
+Simpang Asia,4.0,1609,$$,"['Indonesian', 'Malaysian', 'Halal']"
+Pampas Grill,4.0,1227,$$,['Brazilian']
+Ha Sun Saeng - Master Ha,4.5,366,$$,"['Korean', 'Live/Raw Food', 'Seafood']"
+Flaco.,5.0,24,,['Tacos']
+Cleo Hollywood,4.0,1752,$$$,"['Mediterranean', 'Venues & Event Spaces', 'Tapas/Small Plates']"
+Crispy School,5.0,341,$$,"['Burgers', 'American (New)']"
+Bestia,4.5,6214,$$$,"['Italian', 'Cocktail Bars', 'Pizza']"
+Lobster & Beer,4.0,796,$$,"['Seafood', 'Beer Bar', 'Sports Bars']"
+Han Bat Sul Lung Tang,4.5,2271,$$,"['Korean', 'Comfort Food', 'Soup']"
+Angry Chickz,4.5,917,$$,"['Southern', 'Comfort Food', 'Chicken Shop']"
+Dave’s Hot Chicken,4.0,60,,['Chicken Shop']
+AOC,4.0,2314,$$$,"['Wine Bars', 'Tapas Bars', 'Cocktail Bars']"
+Haidilao Hot Pot,4.0,59,,['Hot Pot']
+Tracey’s Belizean Restaurant,4.5,130,$$,['Caribbean']
+Hae Jang Chon Korean BBQ Restaurant,4.0,5018,$$,"['Korean', 'Barbeque']"
+Myungrang Hot Dog-California Market LA,4.5,854,$,['Hot Dogs']
+Lala’s Argentine Grill,4.0,1992,$$,"['Argentine', 'Steakhouses', 'Sandwiches']"
+Sun Nong Dan,4.0,1679,$$,"['Korean', 'Soup']"
+Sun Nong Dan,4.0,1679,$$,"['Korean', 'Soup']"
+Mario’s Peruvian & Seafood,4.0,2363,$$,"['Seafood', 'Peruvian']"
+Guisados,4.5,2141,$,['Mexican']
+Sugar Taco,4.5,553,$$,"['Mexican', 'Vegetarian']"
+CHD,4.5,72,$$,['Korean']
+Kobawoo House,4.5,1227,$$,"['Korean', 'Soup', 'Seafood']"
+Larchmont Village Wine Spirits & Cheese,4.5,933,$,"['Beer', 'Wine & Spirits', 'Sandwiches', 'Cheese Shops']"
+Little Jewel of New Orleans,4.0,1753,$$,"['Delis', 'Grocery', 'Cajun/Creole']"
+Bavel,4.5,1393,$$$,['Middle Eastern']
+Rutt’s Hawaiian Cafe,4.0,1773,$$,['Hawaiian']
+Stevie’s Creole Cafe,4.0,627,$$,['Cajun/Creole']
+Seongbukdong,4.0,1121,$$,['Korean']
+Yuko Kitchen,4.5,1591,$$,['Japanese']
+Versailles Cuban Food,4.0,2323,$$,"['Cuban', 'Sandwiches', 'Seafood']"
+El Cochinito Restaurant,4.0,756,$$,['Cuban']
+Daikokuya Little Tokyo,4.0,8604,$$,"['Ramen', 'Noodles']"
+Papa Cristo’s,4.5,1960,$$,"['Greek', 'Mediterranean', 'Bakeries']"
+ixlb DimSum Eats,4.5,666,$,['Dim Sum']
+Slab,4.0,433,$$,['Barbeque']
+LASA,4.5,502,$$,"['Filipino', 'American (New)']"
+La Cevicheria,4.5,889,$$,"['Seafood', 'Latin American']"
+Otium,4.0,2028,$$$,['American (New)']
+Taqueria Los Anaya,4.5,1211,$$,['Mexican']
+Sqirl,4.0,2054,$$,"['American (New)', 'Salad']"
+L’Antica Pizzeria Da Michele,4.5,726,$$,"['Pizza', 'Italian']"
+いざかや おせん- IZAKAYA OSEN,4.5,870,$$,"['Sushi Bars', 'Izakaya', 'Seafood']"
+Met Him At A Bar,4.5,183,$$,"['Italian', 'Cocktail Bars']"
+The Ivy,3.5,2002,$$$,['American (New)']
+Din Tai Fung,4.0,1637,$$,"['Taiwanese', 'Chinese', 'Desserts']"
+Bang Bang Noodles,4.0,97,$$,"['Street Vendors', 'Noodles']"
+Mike’s Deli,4.5,870,$$,"['Delis', 'Salad', 'Sandwiches']"
+Roscoe’s House of Chicken & Waffles,4.0,3980,$$,"['Soul Food', 'Waffles', 'Chicken Wings']"
+Chadolpoong,4.5,318,$$,"['Korean', 'Barbeque', 'Soup']"
+Eggslut,4.0,5811,$,"['Breakfast & Brunch', 'Sandwiches']"
+Sidewalk Grill,4.5,1008,$$,"['Mediterranean', 'Salad', 'Wraps']"
+Sonoratown,4.5,1203,$,['Mexican']
+Thanks Pizza,4.5,20,,['Pizza']
+Egg Bomb,4.5,20,,['Korean']
+Lady Byrd Cafe,4.0,328,,"['American (New)', 'Cafes']"
+Home Restaurant - Los Feliz,4.0,3003,$$,"['Breakfast & Brunch', 'Coffee & Tea', 'American (New)']"
+The Little Door,4.0,2113,$$$,"['French', 'Mediterranean', 'Modern European']"
+Tsujita LA Artisan Noodle,4.0,4032,$$,"['Ramen', 'Noodles']"
+LA Rose Cafe,4.5,1004,$$,['Filipino']
+BCD Tofu House,4.0,4347,$$,['Korean']
+Slurpin’ Ramen Bar - Los Angeles,4.5,4586,$$,"['Ramen', 'Noodles']"
+Katsu Sando,4.0,100,,"['Sandwiches', 'Japanese Curry']"
+Black Pearl,5.0,4,,"['Bubble Tea', 'Ice Cream & Frozen Yogurt', 'Korean']"
+Pearl River Deli,5.0,115,$$,"['Cantonese', 'Comfort Food']"
+Masa of Echo Park,4.0,4244,$$,"['Pizza', 'Sandwiches', 'Wraps']"
+Joe’s Falafel,4.5,2086,$$,['Mediterranean']
+Pearl River Deli,5.0,115,$$,"['Cantonese', 'Comfort Food']"
+Masa of Echo Park,4.0,4244,$$,"['Pizza', 'Sandwiches', 'Wraps']"
+Joe’s Falafel,4.5,2086,$$,['Mediterranean']
+Dave’s Hot Chicken,4.0,307,$$,['Chicken Shop']
+Joy,4.5,868,$$,"['Taiwanese', 'Chinese', 'Coffee & Tea']"
+Father’s Office,3.5,6038,$$,"['American (New)', 'Burgers', 'Gastropubs']"
+Yang Chow,4.0,2651,$$,"['Chinese', 'Seafood', 'Noodles']"
+M Grill,4.5,2125,$$$,"['Brazilian', 'Steakhouses', 'Wine Bars']"
+The Burrow,5.0,280,$$,"['Sandwiches', 'Cocktail Bars', 'Gastropubs']"
+Mendocino Farms,4.5,1139,$$,"['Sandwiches', 'Salad']"
+Dune,4.5,766,$$,"['Falafel', 'Salad', 'Sandwiches']"
+Boo’s Philly Cheesesteaks - Silverlake,4.5,1185,$,"['Cheesesteaks', 'Sandwiches', 'American (New)']"
+Yard House,3.5,2680,$$,"['Bars', 'Vegetarian', 'American (New)']"
+Cafe Gratitude,4.0,2115,$$,"['Vegan', 'Vegetarian']"
+La Pupusa Urban Eatery,4.5,292,$$,['Salvadoran']
+Fat Sal’s Deli - Hollywood,4.0,2179,$$,"['Sandwiches', 'Burgers']"
+Annie’s Soul Delicious,4.5,203,$$,"['Soul Food', 'Southern']"
+Stout Burgers & Beers,4.0,2116,$$,"['Burgers', 'Gastropubs', 'American (Traditional)']"
+Osteria Mozza,4.0,2816,$$$$,"['Italian', 'Wine Bars']"
+Tatsu Ramen,4.0,3617,$$,['Ramen']
+Ruen Pair,4.0,1791,$$,['Thai']
+Cafe Beaujolais,4.5,1422,$$,['French']
+Seoul Pho,4.5,123,$$,['Vietnamese']
+Hotville Chicken,4.0,250,$$,['Chicken Shop']
+Carney’s Sunset Strip,4.0,796,$,"['Burgers', 'Hot Dogs', 'Sandwiches']"
+Faith & Flower,4.0,2524,$$$,"['American (New)', 'Cocktail Bars']"
+A Food Affair,4.5,1320,$$,['French']
+Ta-eem Grill,4.5,1125,$$,"['Mediterranean', 'Kosher']"
+The Seafood Xperience,4.0,94,$$,['Seafood']
+Dollar Hits,4.0,335,$,['Filipino']
+Crossroads,4.0,2224,$$$,"['Mediterranean', 'Breakfast & Brunch']"
+Openaire,4.0,692,$$,"['American (New)', 'Breakfast & Brunch']"
+India’s Restaurant,4.5,2878,$$,"['Indian', 'Halal', 'Seafood']"
+CAVA,4.0,219,$$,"['Mediterranean', 'Salad']"
+Jopok Topokki,4.5,757,$$,['Korean']
+MDK Noodles,4.0,1263,$$,"['Korean', 'Noodles', 'Soup']"
+Best Fish Taco In Ensenada,4.0,2198,$,['Mexican']
+LA Prime,4.0,941,$$$$,['Steakhouses']
+LA Brisket,4.5,132,$$,"['Barbeque', 'Sandwiches']"
+Sanamluang Cafe,4.0,1547,$,['Thai']
+Marugame Udon,4.0,185,$$,"['Japanese', 'Noodles']"
+Granny’s Kitchen,4.0,356,$$,"['Soul Food', 'Southern']"
+Quarters Korean BBQ,4.0,2807,$$,"['Korean', 'Barbeque', 'Tapas Bars']"
+Burgers Never Say Die,4.0,643,$$,['Burgers']
+Three Borders Brunch & Grill,5.0,353,$$,"['Breakfast & Brunch', 'American (New)', 'Latin American']"
+Caveman Kitchen,4.0,481,$$,"['Latin American', 'Burgers', 'Peruvian']"
+Dulan’s On Crenshaw,4.0,660,$$,['Soul Food']
+Alta West Adams,4.0,345,$$,"['Soul Food', 'Venues & Event Spaces']"
+Ronnie’s Kickin,4.5,50,,"['Sandwiches', 'Comfort Food']"
+The Kimbap,4.5,586,$,['Korean']
+Bronzed Aussie,4.5,624,$,"['Australian', 'Comfort Food', 'Food Delivery Services']"
+Kismet,4.0,474,$$,"['Mediterranean', 'American (New)', 'Middle Eastern']"
+The Wellesbourne,4.0,970,$$$,"['Lounges', 'Cocktail Bars', 'Tapas/Small Plates']"
+Infinitea Fresh Kosher Grill,5.0,2,,"['Falafel', 'Kebab']"
+Lao Tao,4.0,520,$$,"['Chinese', 'Taiwanese']"
+Panini Kabob Grill - Downtown LA,4.0,1498,$$,"['Mediterranean', 'Middle Eastern', 'Kebab']"
+Taste of Tehran,4.5,945,$$,"['Persian/Iranian', 'Middle Eastern', 'Halal']"
+KazuNori: The Original Hand Roll Bar,4.0,116,$$,"['Sushi Bars', 'Japanese']"
+Milpa Grille,5.0,128,$,['Latin American']
+Petit Trois,4.0,865,$$$,['French']
+Raffi’s Place,4.5,4714,$$,"['Middle Eastern', 'Persian/Iranian', 'Armenian']"
+RiceBox,4.5,232,$$,"['Barbeque', 'Cantonese']"
+Orleans & York Deli,4.0,352,$$,['Delis']
+Tennessee Hot Chicken THC,5.0,354,$$,"['Food Stands', 'Sandwiches', 'Chicken Shop']"
+The Park’s Finest,4.0,2087,$$,"['Barbeque', 'Filipino', 'American (New)']"
+Chef Kang Sul Box,5.0,157,$$,"['Korean', 'Gastropubs', 'Chicken Wings']"
+Bowery Bungalow,4.5,477,$$,"['Lebanese', 'Mediterranean']"
+Michin Dak,4.5,413,$$,"['Chicken Wings', 'Chicken Shop', 'Asian Fusion']"
+The Carving Board,4.5,697,$$,['Sandwiches']
+Catch 56,4.5,525,$$,"['Seafood', 'British', 'Fish & Chips']"
+Wirtshaus,4.0,886,$$,"['German', 'Pubs', 'Beer Gardens']"
+Roscoe’s House of Chicken & Waffles,4.0,2857,$$,"['Soul Food', 'Waffles', 'Chicken Shop']"
+Providence,4.5,2680,$$$$,"['American (New)', 'Seafood']"
+Urth Caffé- Downtown LA,4.0,5345,$$,"['Coffee & Tea', 'Desserts', 'Sandwiches']"
+Little Dom’s,3.5,1571,$$,['American (New)']
+Guisados DTLA,4.5,1851,$,['Mexican']
+Chinchikurin - Little Tokyo,4.0,606,$$,['Japanese']
+Kali Restaurant,4.5,580,$$$,['American (New)']
+Chinchikurin - Sawtelle,4.5,558,$$,['Japanese']
+Hoy’s Wok Chinese Restaurant,4.0,669,$$,['Chinese']
+Berlins,4.5,1001,$,"['Bubble Tea', 'German', 'Sandwiches']"
+The Crack Shack,4.0,414,$$,"['Chicken Shop', 'Sandwiches']"
+Hoy-Ka Thai Restaurant,4.5,1886,$$,"['Thai', 'Noodles']"
+Poppy + Rose,4.0,2428,$$,"['Breakfast & Brunch', 'American (New)', 'Comfort Food']"
+Spitz - Los Feliz,4.0,772,$$,"['Bars', 'Sandwiches', 'Mediterranean']"
+La Fonda Antioquena,4.0,434,$$,['Colombian']
+Fish Grill,4.0,290,$$,"['Seafood', 'Kosher']"
+Ohana Superette,4.0,184,$$,"['Hawaiian', 'Seafood']"
+Dino’s Chicken and Burgers,4.0,2048,$,"['Burgers', 'Mexican']"
+Banh Oui,4.5,217,$$,"['Sandwiches', 'Burgers']"
+Wood Spoon,4.0,1407,$$,['Brazilian']
+Majordomo,4.0,999,$$$,"['Asian Fusion', 'Bars', 'Venues & Event Spaces']"
+Zankou Chicken - Hollywood,3.5,1070,$,['Mediterranean']
+Sushi Gen,4.5,3795,$$$,"['Sushi Bars', 'Japanese']"
+Emporium Thai,4.0,2336,$$,"['Thai', 'Noodles', 'Beer Gardens']"
+Maccheroni Republic,4.5,3014,$$,"['Italian', 'Wine Bars']"
+Crab House,4.0,214,$$,"['Korean', 'Seafood', 'Live/Raw Food']"
+Spitz - Little Tokyo,4.0,1640,$$,"['Mediterranean', 'Beer Bar']"
+Mama Shelter Rooftop Bar,3.5,509,$$,"['American (New)', 'Cocktail Bars', 'Wine Bars']"
+Momed Atwater Village,4.0,616,$$,"['Mediterranean', 'Cocktail Bars']"
+Mr Fries Man,4.5,5,,['Barbeque']
+Cielito Lindo,4.0,875,$,['Mexican']
+Gus’s World Famous Fried Chicken,4.0,1464,$$,"['Southern', 'Chicken Shop', 'Comfort Food']"
+Hae Ha Heng Thai Bistro,4.5,1244,$$,['Thai']
+The Empanada Factory,4.0,318,$,"['Argentine', 'Latin American', 'Empanadas']"
+Pizzeria Mozza,4.0,4275,$$,['Pizza']
+El Zarape,4.5,656,$,['Mexican']
+Comfort LA,4.0,950,$$,"['Comfort Food', 'Chicken Wings', 'Soul Food']"
+The Kluckin Chicken,4.5,218,$$,['Chicken Shop']
+Corn Man,4.5,948,$,"['Food Stands', 'Mexican']"
+Mercado Los Angeles,4.0,1179,$$,"['Mexican', 'Cocktail Bars']"
+Hinoki & The Bird,3.5,1421,$$$,['American (New)']
+Singapore’s Banana Leaf,3.5,697,$$,"['Singaporean', 'Indonesian', 'Malaysian']"
+The Bun Bunn,4.5,40,$$,['Chicken Shop']
+Soom Soom Fresh Mediterranean - Los Angeles,4.0,434,$$,"['Mediterranean', 'Gluten-Free']"
+TGI Korean BBQ,4.5,539,$$,"['Korean', 'Barbeque', 'Asian Fusion']"
+Fish Bone Seafood,5.0,2,,"['Seafood', 'Fish & Chips', 'Southern']"
+Powerplant Superfood Cafe,4.5,632,$$,"['Gluten-Free', 'Vegan', 'Comfort Food']"
+Little Kingston Jamaican Restaurant,3.5,369,$$,['Caribbean']
+Pho Saigon Pearl,4.0,774,$$,"['Vietnamese', 'Noodles', 'Bubble Tea']"
+Manuela,4.0,1017,$$,"['American (New)', 'Breakfast & Brunch', 'Bars']"
+Supremo,4.5,192,$$,['Italian']
+Son of a Gun,4.0,1680,$$$,['Seafood']
+Sonoritas Prime Tacos,4.0,1196,$$,['Mexican']
+Open Sesame,4.0,763,$$,"['Mediterranean', 'Lebanese', 'Halal']"
+My Dung Sandwich Shop,4.5,134,$,"['Sandwiches', 'Vietnamese']"
+Genwa Korean BBQ,4.5,2826,$$,"['Korean', 'Barbeque', 'Seafood']"
+Hasiba,4.5,217,$$,"['Middle Eastern', 'Vegetarian', 'Kosher']"
+Eataly Los Angeles,3.5,2141,$$,"['Specialty Food', 'Italian', 'Food Court']"
+Animal,4.0,3364,$$$,"['American (New)', 'Breakfast & Brunch', 'Wine Bars']"
