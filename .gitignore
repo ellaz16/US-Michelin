@@ -133,4 +133,6 @@ dmypy.json
 ._.DS_Store
 **/.DS_Store
 **/._.DS_Store
+Data/.DS_Store
+
 .Rproj.user
