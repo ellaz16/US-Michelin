@@ -1,0 +1,81 @@
+---
+title: "PPOL564 Project"
+author: "Ella Zhang"
+date: "12/2/2020"
+output:
+  ioslides_presentation:
+    incremental: true
+    widescreen: true
+---
+
+```{r setup, include=FALSE}
+reticulate::use_python("/usr/local/bin/python3")
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Problem Statement
+
+- What factors make it more or less likely for a restaurant
+  - To be in the Michelin guide?
+  - To get a Michelin star?
+
+## Background
+
+- Michelin
+  - French tire manufacturer
+  - Introduced the star rating system
+    - <span style="color:red">One Star:</span> high quality cooking, worth a stop
+    - <span style="color:red">Two Stars:</span> excellent cuisine, worth a detour
+    - <span style="color:red">Three Stars:</span> exceptional cuisine, worth a special journey
+  - Only reviewed five cities in the U.S.
+    - Washington, D.C.
+    - Chicago
+    - New York
+    - San Francisco
+    - Los Angeles
+
+## Methods
+
+- Web Scraping
+  - Yelp: rating, category, price, reviews
+  - Wikipedia: list of Michelin starred restaurants
+  - Michelin Guide website
+- Google Plaves API
+  - Rating, menu, reviews, popular times
+- Data Wrangling
+
+## Methods
+
+- Data Visualization
+  - Bar graph
+  - Pie chart
+  - Map
+- Machine Learning
+  - What factors predict whether or not a restaurant will receive a star?
+  - Which factor matters the most?
+
+```{python include = FALSE}
+import pandas as pd
+DC_Yelp = pd.read_csv("Data/Yelp/DC_Yelp_cleaned.csv")
+```
+
+## Methods Used
+
+- Web Scraping
+  - Yelp
+```{python echo = TRUE}
+DC_Yelp
+```
+  - Wikipedia
+  - Michelin Guide website
+
+---
+
+```{r, cars, fig.cap="A scatterplot.", echo=FALSE}
+plot(cars)
+```
+
+## Going to sleep
+
+- Get in bed
+- Count sheep
