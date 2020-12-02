@@ -40,9 +40,6 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Problem Statement
 
-- What factors make it more or less likely for a restaurant
-  - To be in the Michelin guide?
-  - To get a Michelin star?
 - Classification problem
   - Likelihood of being on the guide and get a star
 - Predictors:
